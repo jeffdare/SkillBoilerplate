@@ -255,6 +255,7 @@ GET | /v1/api/intents | Returns skill intents descriptors.
 GET | /v1/api/healthCheck | Check the status (health) of the skill.
 POST | /v1/api/converse | Get a response from user input or event.
 
+
 ## NLU
 
 The Natural Language Understanding includes data required by the Interact core to extract intents and entities.
